@@ -1,2 +1,2 @@
 # xname-downloader
-Go实现的并发下载器
+一款高速并发下载器
