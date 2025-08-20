@@ -1,2 +1,2 @@
-# xname-downloader
+# fast-downloader
 一款高速并发下载器
